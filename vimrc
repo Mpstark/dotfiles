@@ -51,6 +51,7 @@ set softtabstop=4
 " OTHER
 " -------------------
 set showcmd
+set noshowmode
 set number
 set ignorecase
 set smartcase
