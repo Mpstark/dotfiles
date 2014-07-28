@@ -57,6 +57,7 @@ set ignorecase
 set smartcase
 set incsearch
 set hlsearch
+set hidden
 
 " remap jj to escape in insert mode.  You'll never type jj anyway, so it's great!
 inoremap jj <Esc>
